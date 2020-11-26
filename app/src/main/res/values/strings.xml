@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">ACCourceProject</string>
     <string name="hello">Hello World!</string>
+    <string name="name_film">Avengers:\nEnd Game</string>
+    <string name="age_film">13+</string>
+    <string name="button_back">Back</string>
+    <string name="genre">Action, Adventure, Fantasy</string>
+    <string name="number_reviews">125 Reviews</string>
+    <string name="storyline">Storyline</string>
+    <string name="description">After the devastating events of Avengers: Infinity War, the universe is in ruins.
+         With the help of remaining allies, the Avengers assemble once more in
+        order to reverse Thanos actions and restore balance to the universe.</string>
+    <string name="cast">Cast</string>
+    <string name="name_actorone">Robert Downey Jr.</string>
+    <string name="name_actortwo">Chris Evans</string>
+    <string name="name_actorthree">Mark Ruffalo</string>
+    <string name="name_actorfour">Chris Hemsworth</string>
+
 </resources>
