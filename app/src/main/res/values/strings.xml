@@ -2,6 +2,8 @@
     <string name="app_name">ACCourceProject</string>
     <string name="hello">Hello World!</string>
     <string name="name_film">Avengers:\nEnd Game</string>
+    <string name="name_film_list">Avengers: End Game</string>
+    <string name="time_film_list">137 MIN</string>
     <string name="age_film">13+</string>
     <string name="button_back">Back</string>
     <string name="genre">Action, Adventure, Fantasy</string>
@@ -15,5 +17,6 @@
     <string name="name_actortwo">Chris Evans</string>
     <string name="name_actorthree">Mark Ruffalo</string>
     <string name="name_actorfour">Chris Hemsworth</string>
+    <string name="movies_list">Movies list</string>
 
 </resources>
